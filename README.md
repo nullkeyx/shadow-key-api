@@ -1,7 +1,7 @@
 # ⚡ Shadow Key API
 
 > Automated Windows product key generation via REST API.
-> Generate up to 512 keys per request. Pay only $0.05/key.
+> Generate up to 512 keys per request. 
 
 💬 **Contact & Order:** https://t.me/Bin_Yong
 
