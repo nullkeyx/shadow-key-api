@@ -11,7 +11,7 @@
 
 - ⚡ Instant generation — results in milliseconds
 - 📦 Batch support — up to **512 keys per request**
-- 💰 Pay-as-you-go — **$0.05 per key**, no subscription
+- 💰 Pay-as-you-go —, no subscription
 - 🔐 Bearer token authentication
 - 🌍 Works with Python, Node.js, PHP, curl...
 
